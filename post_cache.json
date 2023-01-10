@@ -1,3 +1,3 @@
 [
-  "Just updated my \"Evolve your APIS\" demo code with the latest version of \\@SpringBoot, \\@Kotlin, \\@grafana, \\@PrometheusIO and \\@ApacheAPISIX for my talk on Thursday at \\@codemash 🥳\n\nhttps://github.com/nfrankel/evolve-apis"
+  "RT zhangjintao9020: Support for \\@ApacheAPISIX  Ingress has been added in this release. Documentation here\nhttps://argo-rollouts.readthedocs.io/en/latest/features/traffic-management/apisix/\n\nQT argoproj: Argo Rollouts 1.4 just dropped! Thanks to all the contributors that helped with this new and exciting release, as always packed with new features. \nThe release blog has more details on the goodies.\nhttps://bit.ly/3ionaT3\n\n@CloudNativeFdn #kubernetes #cicd #opensource"
 ]
