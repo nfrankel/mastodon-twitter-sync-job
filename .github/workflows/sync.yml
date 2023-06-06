@@ -40,7 +40,7 @@ jobs:
         run: >
           cp ./post_cache.json ./job/ 2>/dev/null || :
       - name: Commit and push post cache
-        uses: EndBug/add-and-commit@v7
+        uses: EndBug/add-and-commit@v9
         with:
           cwd: './job'
           add: post_cache.json
