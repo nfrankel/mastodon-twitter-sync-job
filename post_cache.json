@@ -1,5 +1,3 @@
 [
-  "Stuck with 'docker run' because overriden CMD parameters because they start with double hyphens. Tried to prepend with --, e.g., -- --x to no avail:\n\n\"If you tried to supply '--x' as a value rather than a flag, use '-- --x'\". Yup, that's what I did.\n\nHas anybody got a clue?",
-  "RT Mastodon: ✨ The first release candidate of Mastodon 4.0 is now officially available for testing! Find out what's new on the changelog:\n\nhttps://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1",
-  "AIPs are design documents that summarize #Google's #API #design decisions. They also provide a framework and system for others to document their own API design rules and practices\n\nhttps://google.aip.dev/"
+  "Creating a #Kubernetes Cluster with Runtime #Observability https://opentelemetry.io/blog/2023/k8s-runtime-observability/"
 ]
